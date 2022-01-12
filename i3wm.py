@@ -3,14 +3,14 @@ import os
 import pwd
 
 commands = [
-	'sudo apt-get install i3 -y',
-	'sudo apt-get install pulseaudio-utils -y',
-	'sudo apt-get install playerctl -y',
-	'sudo apt-get install feh -y',
+	'sudo apt install i3 -y',
+	'sudo apt install pulseaudio-utils -y',
+	'sudo apt install playerctl -y',
+	'sudo apt install feh -y',
 	'wget -0 ~/Pictures/wallpaper.jpg https://images.hdqwalls.com/wallpapers/yosemite-valley-4k-hd.jpg',
-	'sudo apt-get install rofi',
-	'sudo apt-get install compton',
-	'sudo apt-get install i3blocks',
+	'sudo apt install rofi',
+	'sudo apt install compton',
+	'sudo apt install i3blocks',
 	'mkdir ~/.i3',
 	'cp /etc/i3blocks.conf ~/.i3'
 ]
