@@ -8,9 +8,9 @@ commands = [
 	'sudo apt install playerctl -y',
 	'sudo apt install feh -y',
 	'wget -0 ~/Pictures/wallpaper.jpg https://images.hdqwalls.com/wallpapers/yosemite-valley-4k-hd.jpg',
-	'sudo apt install rofi',
-	'sudo apt install compton',
-	'sudo apt install i3blocks',
+	'sudo apt install rofi -y',
+	'sudo apt install compton -y',
+	'sudo apt install i3blocks -y',
 	'mkdir ~/.i3',
 	'cp /etc/i3blocks.conf ~/.i3'
 ]
