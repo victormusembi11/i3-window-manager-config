@@ -8,7 +8,7 @@ commands = [
 	'sudo apt install playerctl -y',
 	'sudo apt install feh -y',
 	'sudo apt install lxappearance',
-	'wget -0 ~/Pictures/wallpaper.jpg https://images.hdqwalls.com/wallpapers/yosemite-valley-4k-hd.jpg',
+	'wget -O ~/Pictures/wallpaper.jpg https://images.hdqwalls.com/wallpapers/yosemite-valley-4k-hd.jpg',
 	'sudo apt install rofi -y',
 	'sudo apt install compton -y',
 	'sudo apt install i3blocks -y',
